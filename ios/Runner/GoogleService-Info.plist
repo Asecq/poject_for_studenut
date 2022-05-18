@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>646071413696-7g84tqhqfgd3o7l12bn31oiis0mbtqtu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.646071413696-7g84tqhqfgd3o7l12bn31oiis0mbtqtu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYfDRuv40yIiFAy6yEqLAeLMe-WC4NzuI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>646071413696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.apps.haneen</string>
+	<key>PROJECT_ID</key>
+	<string>haneen-6d660</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haneen-6d660.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:646071413696:ios:15d460fe81c69ec291f625</string>
+</dict>
+</plist>

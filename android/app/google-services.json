@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646071413696",
+    "firebase_url": "https://haneen-6d660-default-rtdb.firebaseio.com",
+    "project_id": "haneen-6d660",
+    "storage_bucket": "haneen-6d660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646071413696:android:2908fd653d79bf8d91f625",
+        "android_client_info": {
+          "package_name": "com.apps.haneen.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646071413696-nqfud624laeilh8g89lhs74ubfk7uquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUimDG_cwm6wqDW2qQZEKsMHvGl8aoU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646071413696-nqfud624laeilh8g89lhs74ubfk7uquv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646071413696-7g84tqhqfgd3o7l12bn31oiis0mbtqtu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps.haneen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
