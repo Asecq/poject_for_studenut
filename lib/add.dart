@@ -183,7 +183,7 @@ class _addState extends State<add> {
                         borderRadius: BorderRadius.circular(10.0),
                         borderSide: const BorderSide(color: Colors.blue, width: 1),
                       ),
-                      hintText: 'تفاصيل المراجعة',
+                      hintText: 'العلاج',
                     ),
                   ),),
                 Padding(padding: const EdgeInsets.only(right: 20,left: 20 , top: 20),
